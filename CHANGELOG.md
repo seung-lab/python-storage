@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-storage/#history
 
+### [1.31.1](https://www.github.com/googleapis/python-storage/compare/v1.31.0...v1.31.1) (2020-08-27)
+
+
+### Documentation
+
+* add docs signed_url expiration take default utc ([#250](https://www.github.com/googleapis/python-storage/issues/250)) ([944ab18](https://www.github.com/googleapis/python-storage/commit/944ab1827b3ca0bd1d3aafc2829245290e9bde59))
+
 ## [1.31.0](https://www.github.com/googleapis/python-storage/compare/v1.30.0...v1.31.0) (2020-08-26)
 
 
